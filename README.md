@@ -1,4 +1,3 @@
 0x1B. C - Sorting algorithms & Big O
-Project was done by a team of 2 people (Samuel Eze, Babatunde Yusuf)
-In computer science, a sorting algorithm is an algorithm that puts elements of a list into an order...
-This project is mean to solve some problems associated with sorting algorithm....
+Project was done by Nsikakabasi Okon
+
